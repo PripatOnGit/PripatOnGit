@@ -10,6 +10,7 @@ Just to brush-up my skill set, I joined a full-stack Training Program in @Besant
 Now I am actively looking for the job in same domain as well as cloud technologies.
 
 📫 Feel free to reach out to me:
+
 Gmail:    patil.priyu26@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/patilpriyu26/
