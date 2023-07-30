@@ -11,8 +11,11 @@ Now I am actively looking for the job in same domain as well as cloud technologi
 
 📫 Feel free to reach out to me:
 Gmail:    patil.priyu26@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/patilpriyu26/
+
 GitHub:   https://github.com/PripatOnGit
+
 
 Thank you.
 
