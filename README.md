@@ -7,6 +7,7 @@ Primerily worked on Web Developement and Java.
 🌱 I was on Career break(Preganancy & child Care). I cannot express myself how excited I am to return back to work.
 As I was planning to get back to work, I reaserched about new technologies occupied by the market and new emerging technologies.
 Just to brush-up my skill set, I joined a full-stack Training Program in @Besant technologies,Bengaluru. During training, I got to work on Web technologies+Java(SpringBoot) and coiple of projects.(Repo here....)
+
 Now I am actively looking for the job in same domain as well as cloud technologies.
 
 📫 Feel free to reach out to me:
