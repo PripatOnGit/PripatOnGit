@@ -1,4 +1,4 @@
-### Hi There! I am Priyanka Patil (Bengaluru,KA.India). 
+### Hi There! I am Priyanka Patil (Bengaluru,India). 
 I complated my Bachelors in Engineering (Computer Engineering) from Mumbai University In 2014.
 
 Later, worked with India's one of the largest Software company Infosys,India for almost 2 years. After rigorous training in Java/Database/Web Technologies at Infosys,Mysore I got located in Hyderabad for Projects.
