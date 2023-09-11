@@ -1,23 +1,35 @@
-### Hi There! I am Priyanka Patil (Bengaluru,India). 
-I complated my Bachelors in Engineering (Computer Engineering) from Mumbai University In 2014.
+###Priyanka Patil 
+###Full-Stack developer | Passionate about cutting-edge technologies | Ex-Infosys.
+I am garduated in Bachelors in Engineering (Computer Engineering) from Mumbai University In 2014.
 
-Later, worked with India's one of the largest Software company Infosys,India for almost 2 years. After rigorous training in Java/Database/Web Technologies at Infosys,Mysore I got located in Hyderabad for Projects.
+Later, worked with India's one of the top MNC Infosys,India for almost 2 years. After rigorous training in Java/Database/Web Technologies at Infosys,Mysore I got located in Hyderabad for Projects.
 Primerily worked on Web Developement and Java.
 
-🌱 I am on Career break(Preganancy & child Care), however I cannot express how excited I am to return back to work.
-As I was planning to get back to work, I reaserched about new technologies in the tech industry and new emerging technologies.
-Just to brush-up my skill set, I joined a full-stack Training Program in @Besant technologies,Bengaluru. During training, I got to work on Web technologies+Java(SpringBoot) and couple of projects.(Repo here....)
+Tech Stack:
+* Front-end: HTML/CSS- Bootstrap
+* Front-end framework /Library : Vanilla JavaScript | ReactJs
+* Back-End: Core Java | Python- Flask | REST API
+* Databases: PostgreSQL | SQL
+* Cloud: AWS
+* Version Control: Git/GitHub
+* Project Management Tools: JIRA
+* OS: Linux | BASH Script
+* Problem Solving and Analytical Thinker
 
-Now I am actively looking for the job in same domain along with cloud technologies.
+At a point, I decided to take break from paid workforce and grow family. Motherhood taught me how to be good human being through love, patience, mindfulness.
 
-📫 Feel free to reach out to me:
+During my break, I upskilled myself in recent cutting-edge technologies. To get into mix and upgrade, I joined Besant Technologies, Bengaluru for Full-Stack Development training in Reactjs + Core Java + Python.
+Soon After training, I got shortlisted for AWS re/Start Cohort Program by AWS in collaboration with Aspire For Her and Generation India.
+
+I am looking for Full-Stack developer and AWS Cloud Developer roles. I am ready to get back into paid workforce and ready to collaborate with innovative teams, work with cutting-edge tech stack and be an asset to any organization.
+
+Lets Connect and grow together !!
 
 Gmail:    patil.priyu26@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/patilpriyu26/
 
 GitHub:   https://github.com/PripatOnGit
-
 
 Thank you.
 
