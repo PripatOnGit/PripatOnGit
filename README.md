@@ -1,6 +1,5 @@
-###Priyanka Patil
-Full-Stack developer | Passionate about cutting-edge technologies | Ex-Infosys.
-
+# Priyanka Patil
+## Full-Stack developer | Passionate about cutting-edge technologies | Ex-Infosys.
 
 I am garduated in Bachelors in Engineering (Computer Engineering) from Mumbai University In 2014.
 
