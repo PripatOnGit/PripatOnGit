@@ -4,7 +4,7 @@ I complated my Bachelors in Engineering (Computer Engineering) from Mumbai Unive
 Later, worked with India's one of the largest Software company Infosys,India for almost 2 years. After rigorous training in Java/Database/Web Technologies at Infosys,Mysore I got located in Hyderabad for Projects.
 Primerily worked on Web Developement and Java.
 
-🌱 I am on Career break(Preganancy & child Care), however I cannot express myself how excited I am to return back to work.
+🌱 I am on Career break(Preganancy & child Care), however I cannot express how excited I am to return back to work.
 As I was planning to get back to work, I reaserched about new technologies in the tech industry and new emerging technologies.
 Just to brush-up my skill set, I joined a full-stack Training Program in @Besant technologies,Bengaluru. During training, I got to work on Web technologies+Java(SpringBoot) and couple of projects.(Repo here....)
 
