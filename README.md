@@ -1,7 +1,7 @@
 # Priyanka Patil
 ## Full-Stack developer | Passionate about cutting-edge technologies | Ex-Infosys.
 
-I am graduated in Bachelors in Engineering (Computer Engineering) from Mumbai University In 2014.
+Bachelors in Engineering (Computer Engineering) from Mumbai University-2014.
 
 Later, worked with India's one of the top MNC Infosys,India for almost 2 years. After rigorous training in Java/Database/Web Technologies at Infosys,Mysore I got located in Hyderabad for Projects.
 Primerily worked on Web Developement and Java.
