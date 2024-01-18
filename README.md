@@ -24,7 +24,7 @@ Soon After training, I got shortlisted for AWS re/Start Cohort Program by AWS in
 
 I am looking for Data Engineer and AWS Cloud Developer roles. I am ready to get back into paid workforce and ready to collaborate with innovative teams, work with cutting-edge tech stack and  be an asset to any organization.
 
-Let's connect on LinkedIn.
+Let's connect and grow.
 
 Thanks.
 
