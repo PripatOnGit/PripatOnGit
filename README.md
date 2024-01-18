@@ -32,5 +32,3 @@ LinkedIn: https://www.linkedin.com/in/patilpriyu26/
 
 GitHub:   https://github.com/PripatOnGit
 
-Thank you.
-
