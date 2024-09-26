@@ -1,5 +1,5 @@
 # Priyanka Patil
-## Data Engineer | Passionate about cutting-edge technologies | Ex-Infosys.
+## Data Engineer
 I am software developer with 2yrs of experience with Infosys, Hyderabad. I have worked on Python and Front-End development projects.
 Tech Stack:
 * Front-end: HTML/CSS- Bootstrap
