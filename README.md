@@ -12,6 +12,7 @@ Tech Stack:
 * OS: Linux | BASH Script
 * Problem Solving and Analytical Thinker
 * GitHub Profile:  https://github.com/PripatOnGit
+* Certifiactions: AWS cloud practitioner certified (CLF-02)
 
 I am looking for Data Engineer and AWS Cloud Developer roles. I am ready to get back into paid workforce and ready to collaborate with innovative teams, work with cutting-edge tech stack and  be an asset to any organization.
 
