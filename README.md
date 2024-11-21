@@ -1,6 +1,10 @@
 # Priyanka Patil
 ## Data Engineer
-I am software developer with 2yrs of experience with Infosys, Hyderabad. I have worked on Python and Front-End development projects.
+Hi! I'm Priyanka Patil, a BE Computer Engineer from Mumbai University with two years of software development experience and star performer at Infosys.
+I'm transitioning into a data engineering role, leveraging my AWS Cloud Practitioner certification and preparing for AWS Data Engineering and Snowflake certifications.
+My back-end development experience and python full stack certification provides a strong foundation for designing, implementing, and delivering robust data solutions.
+Outside of work, I practice yoga and enjoy reading to maintain a balanced lifestyle
+
 Tech Stack:
 * Front-end: HTML/CSS- Bootstrap
 * Front-end framework /Library : Vanilla JavaScript | ReactJs
@@ -24,5 +28,4 @@ Gmail:    patil.priyu26@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/patilpriyu26/
 
-GitHub:   https://github.com/PripatOnGit
 
