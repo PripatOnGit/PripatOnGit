@@ -1,5 +1,5 @@
 # Priyanka Patil
-## Data Engineer
+## Data Analytics and Engineering 
 Hi! I'm Priyanka Patil, a BE Computer Engineer from Mumbai University with two years of software development experience and star performer at Infosys.
 I'm transitioning into a data engineering role, leveraging my AWS Cloud Practitioner certification and preparing for AWS Data Engineering and Snowflake certifications.
 My back-end development experience and python full stack certification provides a strong foundation for designing, implementing, and delivering robust data solutions.
