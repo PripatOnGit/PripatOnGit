@@ -1,6 +1,6 @@
 
 ### Hi there 👋 I'm Priyanka
-## Data Engineer | Python · dbt · Airflow · AWS | Returning to Tech after Career Break
+## Data Engineer | Python · dbt · Airflow · AWS · Snowflake | Returning to Tech after Career Break
 
 💡 Data Enthusiast | Aspiring AI Engineer | Problem Solver
 
