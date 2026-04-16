@@ -1,26 +1,12 @@
+👋 Hi, I’m Priyanka Patil — a Business Analyst passionate about bridging business needs with technical solutions.  
 
-### Hi there 👋 I'm Priyanka
-## Data Engineer | Python · dbt · Airflow · AWS · Snowflake | Returning to Tech after Career Break
+🔹 Skilled in requirements gathering, stakeholder management, and process improvement.  
+🔹 Experienced with SQL, AWS (Cloud Practitioner, re/Start Graduate), and Agile methodologies.  
+🔹 Hands-on with tools like JIRA, Confluence, Figma, Visio, and Power BI.  
+🔹 Built end-to-end portfolio projects in Cybersecurity (Incident Management, Compliance Reporting) and Fintech (KYC/AML, Digital Identity Verification, Customer Onboarding).  
+🔹 Strong background in data validation and product operations from Infosys (Apple account).  
 
-💡 Data Enthusiast | Aspiring AI Engineer | Problem Solver
-
-I’m currently building my journey at the intersection of **Data Engineering, AI, and Strategy**.
-My focus is on understanding how data systems and AI can solve real-world problems — especially in areas like fintech and business intelligence.
-
-🚀 **What I’m working on:**
-
-* Strengthening fundamentals in SQL, Python, and data systems
-* Exploring AI concepts like RAG, agentic workflows, and LLM applications
-* Building projects that combine **data + AI for real-world impact**
-
-📚 **Currently Learning:**
-
-* Data Engineering fundamentals
-* AI/ML concepts and applications
-* Cloud & scalable data systems
-
-🎯 **Goal:**
-To become a **Data + AI professional** who can design intelligent, scalable systems and solve meaningful business problems.
+💡 I use GitHub to share my Business Analyst portfolio projects, process documentation, and workflow designs that demonstrate how I translate complex requirements into functional, scalable solutions.
 
 🤝 **Let’s connect & collaborate!**
 
